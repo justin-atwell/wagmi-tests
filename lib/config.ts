@@ -1,7 +1,6 @@
 import { cookieStorage, createStorage, http } from "wagmi";
 import {mainnet, sepolia} from 'wagmi/chains';
 import { defaultWagmiConfig } from "@web3modal/wagmi";
-import { describe } from "node:test";
 
 export const projectId = process.env.NEXT_PROJECT_ID || 'empty';
 
