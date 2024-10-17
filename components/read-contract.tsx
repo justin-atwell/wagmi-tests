@@ -5,7 +5,7 @@ export default function ReadContract() {
           <h3 className="text-xl font-semibold mb-4">Read from Contract</h3>
           <div className="space-y-2">
             <div className="font-medium">Balance: </div>
-            <div className="font-medium">Owner of Token 69: </div>
+            <div className="font-medium">Owner of Token: </div>
             <div className="font-medium">Total Supply: </div>
           </div>
         </div>
